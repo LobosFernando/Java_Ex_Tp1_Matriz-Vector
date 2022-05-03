@@ -1,13 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-
         System.out.println("Hello world!");
-        char tetra;
-        for (int i = 65; i <= 90; i++) {
-            tetra = ((char)i);
+        Abecedario abbc = new Abecedario();
+        abbc.abcd();
+        
+        addd();
+    }
 
-            System.out.print(tetra + " ");
-        }
-
+    private static void addd() {
     }
 }
