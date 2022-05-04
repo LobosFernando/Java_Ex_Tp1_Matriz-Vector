@@ -1,12 +1,11 @@
+import java.util.Random;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        Abecedario abbc = new Abecedario();
-        abbc.abcd();
-        
-        addd();
+        //System.out.println("Hello world!");
+
+        Random ad = new Random(5);
     }
 
-    private static void addd() {
-    }
+
 }
