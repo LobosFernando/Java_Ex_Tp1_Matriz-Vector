@@ -1,4 +1,4 @@
-public class Abecedario {
+public class Ex1 {
 
     public void abcd() {
         char tetra;
@@ -7,5 +7,10 @@ public class Abecedario {
 
             System.out.print(tetra + " ");
         }
+    }
+
+    public static int func(){
+
+        return 5;
     }
 }
