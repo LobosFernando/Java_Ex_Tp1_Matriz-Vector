@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2500ba-de84-4cb0-8705-dce055aa1a40" name="Changes" comment="Ex1Listo">
+    <list default="true" id="4f2500ba-de84-4cb0-8705-dce055aa1a40" name="Changes" comment="Ex2Continuar">
+      <change afterPath="$PROJECT_DIR$/src/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rng.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652416411297</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ex2Continuar">
+      <created>1652454051528</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652454051528</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +153,7 @@
     <MESSAGE value="Random" />
     <MESSAGE value="Random2" />
     <MESSAGE value="Ex1Listo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex1Listo" />
+    <MESSAGE value="Ex2Continuar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex2Continuar" />
   </component>
 </project>

@@ -3,8 +3,6 @@ import java.util.Random;
 public class Rng {
     public static final int MAX_90 = 90;
     public static final int MIN_65 = 65;
-    public static final int Max_9 = 9;
-    public static final int Min_3 = 9;
     static Random rng = new Random();
 
     public static int Rng65_90(){
