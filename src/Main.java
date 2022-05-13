@@ -15,10 +15,15 @@ public class Main {
         for (char letra: palabras) {
             System.out.print(letra + " ");
         }
+        System.out.println("\n-------------------------------");
         //Ejercicio_2
-        char [][] sopaLetras =Ex2.SopaLetras(Rng.Max_9,Rng.Min_3,Rng.MAX_90,Rng.MIN_65);
+        char [][] sopaLetras =Ex2.SopaLetras(Rng.Rng3_9(),Rng.Rng3_9(),Rng.MAX_90,Rng.MIN_65);
 
-
+        for (int i = 0; i < sopaLetras.length ; i++) {
+            for (int j = 0; j < sopaLetras.length; j++) {
+                System.out.println(sopaLetras[i][j]);
+            }
+        }
 
 
 
