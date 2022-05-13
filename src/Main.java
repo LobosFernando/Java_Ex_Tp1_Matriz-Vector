@@ -15,7 +15,6 @@ public class Main {
             System.out.print(" " +letra);
         }
         System.out.println("\n-------------------------------");
-        Thread.sleep(2000);
         //Ejercicio_2
         System.out.println("Ejercicio_2");
         char [][] sopaDLetras = Ex2.SopaLetras(Rng.Rng3_9(),Rng.Rng3_9(),Rng.MAX_90,Rng.MIN_65);
@@ -31,18 +30,17 @@ public class Main {
             System.out.println(" ");
         }
         System.out.println("-------------------------------");
-        Thread.sleep(2000);
         //Ejercicio_3
         System.out.println("Ejercicio_3");
         System.out.println("Utilizando el Ejercicio_2 generé un contador para cada fila y columna");
         System.out.println("Filas: " + ContFilas);
         System.out.println("Columnas: " + ContColum);
         System.out.println("-------------------------------");
-        Thread.sleep(2000);
+
         //Ejercicio_4
         System.out.println("Ejercicio_4");
+        System.out.println("-------------------------------");
         Scanner leer = new Scanner(System.in);
-
         //Ejercicio_5
         System.out.println("Ejercicio_5");
         int CoorX = 0;
@@ -58,10 +56,10 @@ public class Main {
             System.out.println("Coordenadas Incorrectas");
         }
         System.out.println("-------------------------------");
-        Thread.sleep(2000);
         //Ejercicio_6
         System.out.println("Ejercicio_6");
         Ex6.comprobarPosicion();
+        System.out.println("-------------------------------");
         //Ejercicio_7
         System.out.println("Ejercicio_7");
         Ex7.mostrarSopaDeLetras();
